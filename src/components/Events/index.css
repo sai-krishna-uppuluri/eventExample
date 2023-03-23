@@ -1,0 +1,36 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.event-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.event-items-container {
+  width: 60vw;
+  background-color: #64748b;
+}
+
+.event-heading {
+  font-size: 30px;
+  font-family: roboto;
+  color: #ffffff;
+  margin-left: 60px;
+}
+.event-inside-container {
+  margin: 25px;
+}
+
+.event-registration-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.event-inside-container {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}

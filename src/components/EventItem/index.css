@@ -1,0 +1,16 @@
+.item-list-container {
+  margin: 15px;
+  width: 40%;
+}
+
+.event-image-item {
+  width: 250px;
+  height: 150px;
+}
+
+.event-image-btn {
+  outline: none;
+  cursor: pointer;
+  border: none;
+  background-color: transparent;
+}
